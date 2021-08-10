@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Binit Shrestha</h1>
-<h3 align="center">I am a Computer Science Students. Working on to create own Full stack mobiles apps for both platforms (Android & IOS). I love to code most of the time.</h3>
+<h1 align="Left">Hi 👋, I'm Binit Shrestha</h1>
+<h3 align="Left">I am a Computer Science Students. Working on to create own Full stack mobiles apps for both platforms (Android & IOS). I love to code most of the time.(I can do this all Day!)</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binitshrest" alt="binitshrest" /></a> </p> -->
 
