@@ -19,7 +19,6 @@
 
 <!-- - 📄 Know about my experiences [----](----) -->
 
-- ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
