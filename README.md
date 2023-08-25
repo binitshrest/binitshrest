@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on [----](----) -->
 
-- 🌱 I’m currently learning Core JAVA,**Flutter, dart ,node.js, express and mongodb**
+- 🌱 I’m currently learning Core JAVA,**MySQL, Spring Boot, Hibernate, Rest API Designs, HTML, CSS**
 
 <!-- - 👯 I’m looking to collaborate on [----](----) -->
 
