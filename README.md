@@ -15,7 +15,7 @@
 
 <!-- - 💬 Ask me about **----** -->
 
-- 📫 How to reach me **binitshrestha16@gmail.com**
+- 📫 How to reach me **binitshrest16@gmail.com**
 
 <!-- - 📄 Know about my experiences [----](----) -->
 
